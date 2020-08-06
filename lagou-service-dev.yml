@@ -5,7 +5,7 @@ spring:
     username: root
     password: 123456
 lagou:
-  message: 1234
+  message: 12344124
 mail:
   host: smtp.163.com
   from: z867813921@163.com
