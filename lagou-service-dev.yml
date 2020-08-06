@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://mysql:3306/lagou?useUnicode=true&characterEncoding=utf8
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123456
+lagou:
+  message: 123
+mail:
+  host: smtp.163.com
+  from: z867813921@163.com
+  user: z867813921@163.com
+  pwd: BNEAUKLOZHZHPBQI
